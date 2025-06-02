@@ -3,7 +3,7 @@
 
 This project provides a protected MATLAB GUI tool to monitor and plot real-time voltage data from an Arduino board. It uses `.p`-coded files to safeguard the source code and is ideal for sharing with others who need to run but not view or modify your implementation.
 
-![MATLAB GUI Screenshot](MATLAB-Arduino-Oscilloscope/assets/MATLAB_Arduino_Plotting.png)
+![MATLAB GUI Screenshot](assets/MATLAB_Arduino_Plotting.png)
 
 ---
 
